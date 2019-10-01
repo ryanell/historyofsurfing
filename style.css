@@ -1,0 +1,41 @@
+body {
+  background-image: url('background.jpg');
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Luckiest Guy';
+  font-size: 50px;
+  color: lawngreen;
+
+}
+
+h2 {
+  font-family: 'Luckiest Guy';
+  font-size: 40px;
+  color: lawngreen;
+
+}
+
+p {
+  font-family: 'Wingdings';
+  font-size: 20px;
+  color: lawngreen;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.rightin {
+  float-offset: 50px;
+}
+
+div {
+
+}
+
